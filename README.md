@@ -42,7 +42,7 @@ I’m a Backend Developer with 11+ years of experience specializing in designing
 ---
 
 ### 📫 Let's Connect:
-- LinkedIn: [Pablo Contreras Orozco](https://www.linkedin.com/in/your-link)
-- Email: [pablo@example.com](mailto:pablo@example.com)
+- LinkedIn: [Pablo Contreras Orozco](https://www.linkedin.com/in/pablojesus-contreras-orozco/)
+- Email: [pjcontreras89@gmail.com](mailto:pjcontreras89@gmail.com)
   
 ---
